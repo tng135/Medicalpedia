@@ -1,6 +1,12 @@
 title: Medicalpedia
 #description:
 
+header_pages:
+  - country.md
+  - dates.md
+  - people.md
+  - about.md
+
 minima:
   skin: dark
 

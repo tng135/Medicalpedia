@@ -9,7 +9,7 @@ header_pages:
 
 minima:
   skin: dark
-  date_format: none #"%b %-d, %Y"
+  date_format: #"%b %-d, %Y"
 
 show_excerpts: false # set to true to show excerpts on the homepage
 

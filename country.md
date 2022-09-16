@@ -18,8 +18,8 @@ permalink: /countries/
 ### Austria
 ### Azerbaijan
   
-## B
-  ### Bahamas
+# B
+### Bahamas
   Bahrain
   Bangladesh
   Barbados
@@ -38,7 +38,7 @@ permalink: /countries/
   Burma
   Burundi
 
-## C
+# C
   Cambodia
   Cameroon
   Canada
@@ -59,13 +59,13 @@ permalink: /countries/
   Cyprus
   Czechia
 
-## D
+# D
   Denmark
   Djibouti
   Dominica
   Dominican Republic
 
-## E
+# E
   East Timor
   Ecuador
   Egypt
@@ -75,12 +75,12 @@ permalink: /countries/
   Estonia
   Ethiopia
 
-## F
+# F
   Fiji
   Finland
   France
 
-## G
+# G
   Gabon
   Gambia, The
   Georgia
@@ -93,14 +93,14 @@ permalink: /countries/
   Guinea-Bissau
   Guyana
 
-## H
+# H
   Haiti
   Holy See
   Honduras
   Hong Kong
   Hungary
 
-## I
+# I
   Iceland
   India
   Indonesia
@@ -110,12 +110,12 @@ permalink: /countries/
   Israel
   Italy
 
-## J
+# J
   Jamaica
   Japan
   Jordan
 
-## K
+# K
   Kazakhstan
   Kenya
   Kiribati
@@ -125,7 +125,7 @@ permalink: /countries/
   Kuwait
   Kyrgyzstan
 
-## L
+# L
   Laos
   Latvia
   Lebanon
@@ -136,7 +136,7 @@ permalink: /countries/
   Lithuania
   Luxembourg
 
-## M
+# M
   Macau
   Macedonia
   Madagascar
@@ -157,7 +157,7 @@ permalink: /countries/
   Morocco
   Mozambique
 
-## N
+# N
   Namibia
   Nauru
   Nepal
@@ -169,10 +169,10 @@ permalink: /countries/
   North Korea
   Norway
 
-## O
+# O
   Oman
 
-## P
+# P
   Pakistan
   Palau
   Palestinian Territories
@@ -184,15 +184,15 @@ permalink: /countries/
   Poland
   Portugal
 
-## Q
-  Qatar
+# Q
+### Qatar
 
-## R
+# R
   Romania
   Russia
   Rwanda
 
-## S
+# S
   Saint Kitts and Nevis
   Saint Lucia
   Saint Vincent and the Grenadines
@@ -222,7 +222,7 @@ permalink: /countries/
   Switzerland
   Syria
 
-## T
+# T
   Taiwan
   Tajikistan
   Tanzania
@@ -236,7 +236,7 @@ permalink: /countries/
   Turkmenistan
   Tuvalu
 
-## U
+# U
   Uganda
   Ukraine
   United Arab Emirates
@@ -244,15 +244,15 @@ permalink: /countries/
   Uruguay
   Uzbekistan
 
-## V
+# V
   Vanuatu
   Venezuela
   Vietnam
 
-## Y
+# Y
   Yemen
 
-## Z
+# Z
   Zambia
   Zimbabwe
 

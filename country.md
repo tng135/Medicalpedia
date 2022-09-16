@@ -19,7 +19,7 @@ permalink: /countries/
   ### Azerbaijan
   
 ## B
-  Bahamas
+  ### Bahamas
   Bahrain
   Bangladesh
   Barbados

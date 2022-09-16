@@ -39,46 +39,46 @@ permalink: /countries/
 ### Burundi
 
 # C
-  Cambodia
-  Cameroon
-  Canada
-  Cabo Verde
-  Central African Republic
-  Chad
-  Chile
-  China
-  Colombia
-  Comoros
-  Congo, Democratic Republic of the
-  Congo, Republic of the
-  Costa Rica
-  Cote d'Ivoire
-  Croatia
-  Cuba
-  Curacao
-  Cyprus
-  Czechia
+### Cambodia
+### Cameroon
+### Canada
+### Cabo Verde
+### Central African Republic
+### Chad
+### Chile
+### China
+### Colombia
+### Comoros
+### Congo, Democratic Republic of the
+### Congo, Republic of the
+### Costa Rica
+### Cote d'Ivoire
+### Croatia
+### Cuba
+### Curacao
+### Cyprus
+### Czechia
 
 # D
-  Denmark
-  Djibouti
-  Dominica
-  Dominican Republic
+### Denmark
+### Djibouti
+### Dominica
+### Dominican Republic
 
 # E
-  East Timor
-  Ecuador
-  Egypt
-  El Salvador
-  Equatorial Guinea
-  Eritrea
-  Estonia
-  Ethiopia
+### East Timor
+### Ecuador
+### Egypt
+### El Salvador
+### Equatorial Guinea
+### Eritrea
+### Estonia
+### Ethiopia
 
 # F
-  Fiji
-  Finland
-  France
+### Fiji
+### Finland
+### France
 
 # G
   Gabon
@@ -111,9 +111,9 @@ permalink: /countries/
   Italy
 
 # J
-  Jamaica
-  Japan
-  Jordan
+### Jamaica
+### Japan
+### Jordan
 
 # K
   Kazakhstan
@@ -170,7 +170,7 @@ permalink: /countries/
   Norway
 
 # O
-  Oman
+### Oman
 
 # P
   Pakistan
@@ -188,9 +188,9 @@ permalink: /countries/
 ### Qatar
 
 # R
-  Romania
-  Russia
-  Rwanda
+### Romania
+### Russia
+### Rwanda
 
 # S
   Saint Kitts and Nevis

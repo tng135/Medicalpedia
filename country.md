@@ -4,19 +4,19 @@ title: Countries
 permalink: /countries/
 ---
 
-## A
-  ### Afghanistan
-  ### Albania
-  ### Algeria
-  ### Andorra
-  ### Angola
-  ### Antigua and Barbuda
-  ### Argentina
-  ### Armenia
-  ### Aruba
-  ### Australia
-  ### Austria
-  ### Azerbaijan
+# A
+  ## Afghanistan
+  ## Albania
+  ## Algeria
+  ## Andorra
+  ## Angola
+  ## Antigua and Barbuda
+  ## Argentina
+  ## Armenia
+  ## Aruba
+  ## Australia
+  ## Austria
+  ## Azerbaijan
   
 ## B
   ### Bahamas

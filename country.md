@@ -245,15 +245,15 @@ permalink: /countries/
   Uzbekistan
 
 # V
-  Vanuatu
-  Venezuela
-  Vietnam
+### Vanuatu
+### Venezuela
+### Vietnam
 
 # Y
-  Yemen
+### Yemen
 
 # Z
-  Zambia
-  Zimbabwe
+### Zambia
+### Zimbabwe
 
 [jekyll-organization]: https://github.com/jekyll

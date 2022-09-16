@@ -81,34 +81,34 @@ permalink: /countries/
 ### France
 
 # G
-  Gabon
-  Gambia, The
-  Georgia
-  Germany
-  Ghana
-  Greece
-  Grenada
-  Guatemala
-  Guinea
-  Guinea-Bissau
-  Guyana
+### Gabon
+### Gambia, The
+### Georgia
+### Germany
+### Ghana
+### Greece
+### Grenada
+### Guatemala
+### Guinea
+### Guinea-Bissau
+### Guyana
 
 # H
-  Haiti
-  Holy See
-  Honduras
-  Hong Kong
-  Hungary
+### Haiti
+### Holy See
+### Honduras
+### Hong Kong
+### Hungary
 
 # I
-  Iceland
-  India
-  Indonesia
-  Iran
-  Iraq
-  Ireland
-  Israel
-  Italy
+### Iceland
+### India
+### Indonesia
+### Iran
+### Iraq
+### Ireland
+### Israel
+### Italy
 
 # J
 ### Jamaica
@@ -237,12 +237,12 @@ permalink: /countries/
   Tuvalu
 
 # U
-  Uganda
-  Ukraine
-  United Arab Emirates
-  United Kingdom
-  Uruguay
-  Uzbekistan
+### Uganda
+### Ukraine
+### United Arab Emirates
+### United Kingdom
+### Uruguay
+### Uzbekistan
 
 # V
 ### Vanuatu

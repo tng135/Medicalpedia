@@ -20,23 +20,23 @@ permalink: /countries/
   
 # B
 ### Bahamas
-  Bahrain
-  Bangladesh
-  Barbados
-  Belarus
-  Belgium
-  Belize
-  Benin
-  Bhutan
-  Bolivia
-  Bosnia and Herzegovina
-  Botswana
-  Brazil
-  Brunei
-  Bulgaria
-  Burkina Faso
-  Burma
-  Burundi
+### Bahrain
+### Bangladesh
+### Barbados
+### Belarus
+### Belgium
+### Belize
+### Benin
+### Bhutan
+### Bolivia
+### Bosnia and Herzegovina
+### Botswana
+### Brazil
+### Brunei
+### Bulgaria
+### Burkina Faso
+### Burma
+### Burundi
 
 # C
   Cambodia

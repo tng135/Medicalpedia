@@ -4,8 +4,9 @@ title: Countries
 permalink: /countries/
 ---
 
+<!--
 # A
-//### [Afghanistan](https://github.com/jekyll/minima)
+### [Afghanistan](https://github.com/jekyll/minima)
 ### Albania
 ### Algeria
 ### Andorra
@@ -236,11 +237,15 @@ permalink: /countries/
 ### Turkmenistan
 ### Tuvalu
 
+-->
 # U
+<!--
 ### Uganda
 ### Ukraine
 ### United Arab Emirates
+-->
 ### [United Kingdom](https://medicalpedia.info/countries/uk)
+<!--
 ### United States of America
 ### Uruguay
 ### Uzbekistan
@@ -258,3 +263,4 @@ permalink: /countries/
 ### Zimbabwe
 
 [jekyll-organization]: https://github.com/jekyll
+-->

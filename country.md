@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Countries
 permalink: /countries/
 ---
 

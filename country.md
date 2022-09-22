@@ -241,6 +241,7 @@ permalink: /countries/
 ### Ukraine
 ### United Arab Emirates
 ### [United Kingdom](https://medicalpedia.info/countries/uk)
+### United States of America
 ### Uruguay
 ### Uzbekistan
 

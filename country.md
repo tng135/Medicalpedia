@@ -240,7 +240,7 @@ permalink: /countries/
 ### Uganda
 ### Ukraine
 ### United Arab Emirates
-### United Kingdom
+### [United Kingdom](https://medicalpedia.info/countries/uk)
 ### Uruguay
 ### Uzbekistan
 

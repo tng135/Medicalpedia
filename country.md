@@ -116,73 +116,73 @@ permalink: /countries/
 ### Jordan
 
 # K
-  Kazakhstan
-  Kenya
-  Kiribati
-  Korea, North
-  Korea, South
-  Kosovo
-  Kuwait
-  Kyrgyzstan
+### Kazakhstan
+### Kenya
+### Kiribati
+### Korea, North
+### Korea, South
+### Kosovo
+### Kuwait
+### Kyrgyzstan
 
 # L
-  Laos
-  Latvia
-  Lebanon
-  Lesotho
-  Liberia
-  Libya
-  Liechtenstein
-  Lithuania
-  Luxembourg
+### Laos
+### Latvia
+### Lebanon
+### Lesotho
+### Liberia
+### Libya
+### Liechtenstein
+### Lithuania
+### Luxembourg
 
 # M
-  Macau
-  Macedonia
-  Madagascar
-  Malawi
-  Malaysia
-  Maldives
-  Mali
-  Malta
-  Marshall Islands
-  Mauritania
-  Mauritius
-  Mexico
-  Micronesia
-  Moldova
-  Monaco
-  Mongolia
-  Montenegro
-  Morocco
-  Mozambique
+### Macau
+### Macedonia
+### Madagascar
+### Malawi
+### Malaysia
+### Maldives
+### Mali
+### Malta
+### Marshall Islands
+### Mauritania
+### Mauritius
+### Mexico
+### Micronesia
+### Moldova
+### Monaco
+### Mongolia
+### Montenegro
+### Morocco
+### Mozambique
 
 # N
-  Namibia
-  Nauru
-  Nepal
-  Netherlands
-  New Zealand
-  Nicaragua
-  Niger
-  Nigeria
-  North Korea
-  Norway
+### Namibia
+### Nauru
+### Nepal
+### Netherlands
+### New Zealand
+### Nicaragua
+### Niger
+### Nigeria
+### North Korea
+### Norway
 
 # O
 ### Oman
 
 # P
-  Pakistan
-  Palau
-  Palestinian Territories
-  Panama
-  Papua New Guinea
-  Paraguay
-  Peru
-  Philippines
-  Poland
-  Portugal
+### Pakistan
+### Palau
+### Palestinian Territories
+### Panama
+### Papua New Guinea
+### Paraguay
+### Peru
+### Philippines
+### Poland
+### Portugal
 
 # Q
 ### Qatar

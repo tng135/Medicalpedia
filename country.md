@@ -5,7 +5,7 @@ permalink: /countries/
 ---
 
 # A
-### [Afghanistan](https://github.com/jekyll/minima)
+//### [Afghanistan](https://github.com/jekyll/minima)
 ### Albania
 ### Algeria
 ### Andorra
